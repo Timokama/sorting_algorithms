@@ -2,6 +2,7 @@
 
 /**
  * selection_sort - selection sort algoerithms
+ * https://en.wikipedia.org/wiki/Selection_sort
  * @array: array of integer to sort
  * @size: size of array
  *
